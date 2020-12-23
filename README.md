@@ -1,2 +1,2 @@
-# Program2
-Program2 Turn Based Combat Game
+# Program 2
+Program 2 Turn Based Combat Game
